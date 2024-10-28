@@ -1,0 +1,19 @@
+{
+  "name": "cli-based-o-o-p-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Shahzaib Khan",
+  "license": "MIT",
+  "description": "This is a 'OOP Project'.",
+  "dependencies": {
+    "inquirer": "^12.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
